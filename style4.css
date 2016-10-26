@@ -1,0 +1,39 @@
+body
+{
+
+background: red;
+text-align: center;
+}
+
+#container
+{
+
+max-width:1000px;
+margin-left: 20%;
+margin-right: 20%;
+background: #ff9966;
+
+}
+
+#stopka
+{
+
+background: #99ff99;
+
+}
+
+h1
+{
+
+color: #000;
+
+}
+
+
+h2
+
+{
+
+color: #000;
+
+}
